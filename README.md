@@ -1,2 +1,2 @@
-# CS-100_Projects
-All projects from CS-100. Written in Python
+# CS-100_Projects_Chapter_2
+All projects from CS-100 Chapter 2. Written in Python
